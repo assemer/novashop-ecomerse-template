@@ -13,6 +13,14 @@ You can Use it, it free and OpenSource<br>
 
 
 ## PHP Start 
+```php
+php -S 127.0.0.1:8000
+```
+## MYSQL Database
+```msql
+CREATE TABLE products(id int no null primary key auto_increment, name varchar(255), prix int,coverImage varchat(255));
+```
+
 
 ## License
 Free OpenSource 
